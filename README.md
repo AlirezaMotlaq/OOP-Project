@@ -1,15 +1,13 @@
 # OOP-Project
-# Project Title
 
-Simple overview of use/purpose.
+## Members
 
-## Description
+Alireza Hashemi Motlaq
+Janan Rohani
 
-An in-depth paragraph about your project and overview of use.
+## Student Numbers
 
-## Getting Started
-
-### Dependencies
+### D
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
